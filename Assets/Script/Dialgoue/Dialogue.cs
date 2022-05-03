@@ -37,4 +37,6 @@ public class Dialogue : ScriptableObject
     }
     public Sentence[] sentences;
 
+
+
 }
