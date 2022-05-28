@@ -30,9 +30,11 @@ public class SEManager : MonoBehaviour
 
     public void playChatCilp()
     { 
+        /*
         SE_audioSource.Stop();
         SE_audioSource.clip = SE_ChatClip[Random.Range(0,2)];
         SE_audioSource.Play();
+        */
     }
 
     public void stopAllAudioClip()
